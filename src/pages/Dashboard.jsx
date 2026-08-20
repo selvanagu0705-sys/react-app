@@ -5,7 +5,7 @@ import {
   Building2,
   ArrowRight,
 } from 'lucide-react'
-import StatCard from '../Components/Statcard'
+import StatCard from '../components/Statcard'
 
 function Dashboard() {
   const recentEmployees = [
